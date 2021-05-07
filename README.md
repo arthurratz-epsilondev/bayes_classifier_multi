@@ -7,7 +7,7 @@
 
 An implementation of the Multinomial Naїve Bayes' Classifier in Python 3.8, used for documents classification and Natural Language Processing (NLP).
 
-Source codes in **Python 3.7 (64-bit)** using the latest **Numpy 1.20.2** library, **Microsoft Visual Studio 2019** project:
+Source codes in **Python 3.7 (64-bit)** using the latest **Numpy 1.20.2** library, **Microsoft Visual Studio 2019** project.
 
 ## Usage:
 
@@ -15,7 +15,7 @@ To perform the samples **S** classification, based the training set of documents
 
 ## License
 
-CPOL © 2021 Arthur V. Ratz
+GNU General Public License 3.0 © 2021 Arthur V. Ratz
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
