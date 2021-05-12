@@ -7,7 +7,7 @@
 
 An implementation of the Multinomial Naїve Bayes' Classifier in Python 3.8, used for documents classification and Natural Language Processing (NLP).
 
-Source codes in **Python 3.7 (64-bit)** using the latest **Numpy 1.20.2** library, **Microsoft Visual Studio 2019** project.
+Source codes in **Python 3.7 (64-bit)** using the latest **Numpy 1.20.x** and **NLTK 3.6.2** libraries, **Microsoft Visual Studio 2019** project.
 
 ## Usage:
 
