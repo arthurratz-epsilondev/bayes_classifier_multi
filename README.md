@@ -11,7 +11,7 @@ Source codes in **Python 3.7 (64-bit)** using the latest **Numpy 1.20.2** librar
 
 ## Usage:
 
-To perform the samples **S** classification, based the training set of documents **D**, using the Multinomial Naїve Bayes' Classifier, download and run the following project in Microsoft Visual Studio 2019. 
+Download and run the following project in Microsoft Visual Studio 2019. 
 
 ## License
 
