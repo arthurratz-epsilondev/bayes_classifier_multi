@@ -1,4 +1,4 @@
-# Multinomial Naїve Bayes' Classifier
+# Multinomial Naїve Bayes' Classifier In Python 3.7
 #### _Multinomial Naїve Bayes' Classifier For Documents Classification_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
